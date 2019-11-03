@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src=".github/logo.png" width="200px" />
-</h1>
 
 <h3 align="center">
   Desafio 2: Gympoint
@@ -8,21 +5,14 @@
 
 <blockquote align="center">Bootcamp GoStack - Rockeseat</blockquote>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## :rocket: Sobre o desafio
 
-A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de academia, o **Gympoint**.
-
-Nesse primeiro desafio vamos criar algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui. Esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp**, então, bora pro código!
+Criar um app gerenciador de academia, o **Gympoint**.
 
 ### Um pouco sobre as ferramentas
 
-Você deverá criar a aplicação do zero utilizando o [Express](https://expressjs.com/), além de precisar configurar as seguintes ferramentas:
+Criar a aplicação do zero utilizando o [Express](https://expressjs.com/), além de precisar configurar as seguintes ferramentas:
 
 - Sucrase + Nodemon;
 - ESLint + Prettier + EditorConfig;
@@ -30,7 +20,7 @@ Você deverá criar a aplicação do zero utilizando o [Express](https://express
 
 ### Funcionalidades
 
-Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplicação.
+Abaixo estão descritas as funcionalidades que devem ser adicionadas na aplicação.
 
 #### 1. Autenticação
 
